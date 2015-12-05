@@ -1187,7 +1187,7 @@ h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: inherit;
+  color:#ffffff;
 }
 h1 small,
 h2 small,
@@ -3072,8 +3072,8 @@ fieldset[disabled] a.btn {
 }
 .btn-default:hover {
   color: #333;
-  background-color: #e6e6e6;
-  border-color: #adadad;
+  background-color: #16A085;
+  border-color: #16A085;
 }
 .btn-default:active,
 .btn-default.active,
